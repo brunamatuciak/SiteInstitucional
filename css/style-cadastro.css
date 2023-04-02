@@ -1,0 +1,51 @@
+.form{
+    background-color: #cdcdcd;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 70px 20px;
+    color: #db7093;
+    border-radius: 5px;
+    width: 300px;
+    height: 470px;
+}
+
+.label{
+    font-size: 20px;
+    margin: 0;
+}
+
+input{
+    border: solid 2px #32a7b1;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.button2{
+    background-color: #e6005a;
+    color: white;
+    border: 0;
+    width: 130px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 5px;  
+    margin-left: 25px;
+    font-size: 16px;
+}
+
+.banner{
+    padding:50px;
+}
+
+.bem-vindo{
+    margin-left: 50px;
+}
+
+.navBar {
+    color: #b58d5b;
+    list-style: none;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}  
